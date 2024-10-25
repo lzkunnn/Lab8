@@ -53,6 +53,12 @@ public class CustomList extends ArrayAdapter<City> {
         cities.add(city);
     }
 
+    public boolean hasCity(City city) {
+        // Check if the city exists in the list
+        return cities.contains(city);
+    }
+
+
 
 
 }
