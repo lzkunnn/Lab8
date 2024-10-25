@@ -1,0 +1,27 @@
+[33mf4054eb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtdd-example[m[33m, [m[1;31morigin/tdd-example[m[33m)[m Add failing test for hasCity method
+[33m119d8ee[m Fix error in addCity method
+[33mb59b24b[m Fix addCity method to pass the test
+[33m31af95b[m Add failing test for addCity method in CustomList
+[33md226070[m Added a unit test for the addCity
+[33me40911d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m removed the test implementation to enable use by other labs
+[33mc841a70[m setting it to fail default
+[33m7a5920f[m making it pass
+[33mee4989c[m simulating failed test
+[33m9238735[m refactor
+[33m7f8a19c[m check
+[33m91a68b4[m check
+[33mb3d950b[m proposed to fail
+[33ma643ec9[m simulating passed test
+[33md29f73b[m quick check
+[33mfe788b6[m resolving failed test
+[33m489f57d[m checking failed test
+[33m222eb30[m refactor
+[33m131650a[m update to test unit test
+[33mdc274cc[m update android.yml
+[33m3f2c509[m refactoring
+[33mafdf34d[m checking issues
+[33m51000fc[m resolving failed test
+[33m7b273d6[m refactor
+[33mec4c2e7[m testing Github actions
+[33m2ca1a6e[m android.yml
+[33m96e4c5a[m Lab8
