@@ -1,4 +1,4 @@
-name: Android CI - ${{ github.event.head_commit.message }}
+name: Android CI
 
 on:
   push:
@@ -22,8 +22,8 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
-      - name: Build with Gradle
+      - name: Build the project with Gradle
         run: ./gradlew build
 
-      - name: Run Unit Tests
+      - name: Run Unit Tests for Commit - ${{ github.event.head_commit.message }}
         run: ./gradlew test
